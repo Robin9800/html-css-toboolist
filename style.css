@@ -7,7 +7,10 @@
     width: 100px;
     margin-left: 20px;
     margin-bottom: 200px;
+    display: inline;
 }
+
+
 
 body{
     margin-top: 0px;
@@ -30,4 +33,79 @@ div{
     font-size: 40px;
     display: inline;
     vertical-align: middle;
-  }
+}
+
+
+.btn{
+    background-color: #46adf1;
+    color: white;
+    padding: 5px;
+}
+
+.btn1{
+    background-color: white; 
+    color: lightgray;
+    padding: 5px;
+}
+
+.border-radius{
+    border-radius: 6px;
+    border: 2px solid #46adf1;
+}
+
+.border-radius1{
+    border-radius: 6px;
+    border: 2px solid #e7e7e7;
+}
+
+.font{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    margin-bottom: 4px;
+}
+
+.spazio{
+    margin-top: 6px;
+}
+
+.pallini{
+    list-style-type: none;
+}
+
+.padding{
+    padding-left: 6px;
+}
+
+.si{
+    color: #7fc8b3;
+}
+
+.no{
+    color: #f3a9a9;
+}
+
+.bollino{
+    
+    font-size: 12px;
+    border-radius: 18px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 6px;
+    padding-left: 6px;
+}
+
+.lista{
+    margin-bottom: 12px;
+}
+
+.colore{
+    background-color: #9d72e3;
+}
+
+.colore2{
+    background-color: #63bfa8;
+}
+
+.colore3{
+    background-color: #f39c2f;
+}
