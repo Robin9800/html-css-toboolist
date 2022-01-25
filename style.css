@@ -4,10 +4,13 @@
   
   
 .container {
-    width: 1200px;
+    width: 100px;
     margin-left: 20px;
-    
-    
+    margin-bottom: 200px;
+}
+
+body{
+    margin-top: 0px;
 }
 
 div{
@@ -15,8 +18,7 @@ div{
 }
   
  header {
-    line-height: 150px;
-    height: 150px;
+    line-height: 100px;
 }
   
  #logo {
